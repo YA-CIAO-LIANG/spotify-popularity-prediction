@@ -1,0 +1,22 @@
+# Core data handling
+numpy
+pandas
+pyarrow          # read/write songs_clean.parquet
+
+# Statistics & machine learning
+scipy
+scikit-learn
+statsmodels
+
+# Visualization
+matplotlib
+seaborn
+
+# Text / NLP
+nltk             # VADER sentiment (vader_lexicon)
+langdetect       # language-filter validation in Notebook 1
+
+# Data download
+kagglehub
+
+# Note: google.colab (drive.mount) is preinstalled on Google Colab and is not installable via pip.
