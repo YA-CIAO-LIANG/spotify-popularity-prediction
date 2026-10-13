@@ -1,4 +1,4 @@
-# Predicting Spotify Song Popularity from Audio Features and Lyrics
+# Predicting Spotify Popularity of English Songs from Audio Features and Lyrics
 
 ## Documents
 
